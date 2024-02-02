@@ -1,0 +1,6 @@
+framework module Pods_NGMacrosAppTests {
+  umbrella header "Pods-NGMacrosAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
